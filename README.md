@@ -60,8 +60,9 @@
 - Maven 3.6+
 - 瀏覽器（建議使用 Google Chrome 或 Firefox）
 
-### 安裝與設定
-1. Clone 專案
-```bash
-$ git clone https://github.com/your-repo/voting-system.git
-$ cd voting-system
+## 聯絡方式
+如果您有任何問題，請透過以下方式聯絡：
+- Email: boyanw81@gmail.com
+- GitHub: boyanw97
+
+感謝支持！
